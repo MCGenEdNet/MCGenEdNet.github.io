@@ -1,10 +1,10 @@
 ---
-permalink: /markdown/
-title: "Markdown"
+permalink: /about/
+title: "about"
 author_profile: true
 redirect_from: 
-  - /md/
-  - /markdown.html
+  - /ad/
+  - /about.html
 ---
 
 ## Blah...
