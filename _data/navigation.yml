@@ -6,13 +6,13 @@
 
 main:
   - title: "Home"
-    url: /about/
+    url: /markdown/
 
   - title: "Schools"
-    url: /talks/    
+    url: /markdown/    
 
   - title: "Fellows"
-    url: /teaching/    
+    url: /markdown/    
     
   - title: "Contact"
     url: /markdown/
