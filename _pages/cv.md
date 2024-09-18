@@ -1,12 +1,12 @@
 ---
 permalink: /cv/
-title: "cv"
+title: "Schools"
 author_profile: true
 redirect_from: 
   - /resume/
   - /cv.html
 ---
 
-## Blah...
+## Summer School 2025
 
-Blah...
+Stay tuned...
