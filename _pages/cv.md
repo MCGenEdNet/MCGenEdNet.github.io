@@ -3,7 +3,7 @@ permalink: /cv/
 title: "cv"
 author_profile: true
 redirect_from: 
-  - /cv/
+  - /resume/
   - /cv.html
 ---
 
