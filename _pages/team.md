@@ -1,10 +1,10 @@
 ---
-permalink: /team/
+permalink: /markdown/
 title: "Team"
 author_profile: true
 redirect_from: 
-  - /tm/
-  - /team.html
+  - /md/
+  - /markdown.html
 ---
 
 ## Berkeley
