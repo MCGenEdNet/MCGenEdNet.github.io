@@ -11,7 +11,7 @@ redirect_from:
 
 Dr. Benjamin Nachman, bpnachman at lbl.gov
 
-## Cincinatti
+## Cincinnati
 
 Prof. Philip Ilten, iltenpj at ucmail.uc.edu\
 Dr. Stephen Mrenna, mrenna at fnal.gov\
