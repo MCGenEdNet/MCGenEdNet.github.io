@@ -15,7 +15,7 @@ An integral part of a learning process is applying the acquired skills to concre
 
 The current call is open: apply **here**. The deadline is **Nov 30th 2024.**
 
-The pilot phase of MCgen consists of eight 6-month long traineeships to be selected from a national pool of graduate students and junior postdocs at institutions in the US. We will have two calls for the positions: four positions will be offered each for 2025-26 (current call) and then for 2026-27 academic years, equally split among the two host campuses. 
+The pilot phase of MCgen consists of eight 6-month long traineeships to be selected from a national pool of graduate students and junior postdocs at institutions in the US. We will have two calls for the positions: four positions will be offered each for 2025-26 (current call) and then for 2026-27 academic year, equally split among the two host campuses. 
 
 ## Eligibility
 
