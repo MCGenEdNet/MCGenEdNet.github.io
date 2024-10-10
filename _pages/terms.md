@@ -23,7 +23,7 @@ Be a graduate student or junior postdoc at a US institution.  The participants a
 
 ## Benefits
 
-Fellows will recieve a stipiend that will cover the costs of allocation and local living expenses (the stipends are cost-of-living adjusted, $23.5k/6 months for U. Cincinnati and $27.5k/6months UC Berkeley campus).  Partial support by their home institute is allowed, but not required.  The host institute will provide office space and a working environment to collaborate on the selected project, with the fellows fully integrated in the activities of the respective groups.
+Fellows will receive a stipend that will cover the relocation costs and the local living expenses (the stipends are cost-of-living adjusted, $23.5k/6 months for U. Cincinnati and $27.5k/6 months for UC Berkeley campus).  Partial/additional support by their home institution is allowed, but not required.  The host institute will provide office space and a working environment to collaborate on the selected project, with the fellows fully integrated in the activities of the respective groups.
 
 ## Selection
 
