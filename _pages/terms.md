@@ -31,7 +31,7 @@ Apply **here**. Applicants are requested to submit a brief (1 page) description 
 
 ## Potential Projects
 
-The sample projects listed below are appropriate for the six month duration of the traineeships. The landscape of possible projects is intentionally wide, varying from projects where only limited domain knowledge is required, to projects where a detailed knowledge of particle or nuclear physics is needed. Similarly, these projects require different levels of technical/software development skills. The examples below should be taken only as guidance: it is ok to hihglight in your research statement one or even two areas you are most intersted in working, without a very concrete project.
+ The examples below should be taken only as guidance: it is ok to highlight in your research statement one or even two areas you are most intersted in working on, without a very concrete project in mind at the time of application.
 
 1. **AI/ML and HPC Integration with MC Simulations**
     - *AI/ML Models for Hadronization*. Unlike the reactions involving high-energy quarks and gluons, the process of hadron formation from these fundamental particles is not understood from first principles. Therefore, existing hadronization models are physics-inspired, but ultimately limited to simple parameterized fits to data. The flexibility of ML-based models offer an attractive alternative to existing parametric models. The goal is to continue the development and training of an ML-based hadronization model and interface it with the Pythia or Herwig MC event generators using inference libraries like ONNX.
