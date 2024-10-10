@@ -19,7 +19,7 @@ The pilot phase of MCgen consists of eight 6-month long traineeships to be selec
 
 ## Eligibility
 
-Be a graduate student or junior postdoc at a UC institution.  The participants are not required to be US citizens.
+Be a graduate student or junior postdoc at a US institution.  The participants are not required to be US citizens.
 
 ## Benefits
 
@@ -27,13 +27,11 @@ Fellows will recieve a stipiend that will cover the costs of allocation and loca
 
 ## Selection
 
-Apply **here**. Applicants are requested to submit a brief (1 page) description of their proposed research project, including the preferred host institution, their CV (including software experience), and two letters of recommendation, out of which one should be from the advisor. We will conduct video interviews with short-listed candidates. The selected candidates will be placed equally between the two institutions, based on their preferences, and will each be assigned a primary mentor.
+Apply **here**. Applicants are requested to submit a brief (1 page) description of their proposed research project/research intersts, including the preferred host institution, their CV (including software experience), and two letters of recommendation, out of which one should be from the advisor. We will conduct video interviews with short-listed candidates. The selected candidates will be placed equally between the two institutions, based on their preferences, and will each be assigned a primary mentor.
 
 ## Potential Projects
 
-The sample projects listed below are appropriate for the six month duration of the traineeships. The landscape of possible projects is intentionally wide, varying from projects where only limited domain knowledge is required, to projects where a detailed knowledge of particle or nuclear physics is needed. Similarly, these projects require different levels of technical/software development skills.
-
-We have purposefully left space to tailor projects to the background of our students. In most cases, we assume that a one to two month initial period is needed for a student to become familiar with a particular MC tool, and the remainder of the stay is devoted to actual code development. For very advanced graduate students or junior postdoctoral researchers, it will also be possible to match them with even more ambitious projects, or even for them to work on projects that they themselves propose. As such, the examples below should be taken only as guidance, as the list will be adjusted and extended during the duration of the MCgen program, reflecting developments in the particle and nuclear physics domain.
+The sample projects listed below are appropriate for the six month duration of the traineeships. The landscape of possible projects is intentionally wide, varying from projects where only limited domain knowledge is required, to projects where a detailed knowledge of particle or nuclear physics is needed. Similarly, these projects require different levels of technical/software development skills. The examples below should be taken only as guidance: it is ok to hihglight in your research statement one or even two areas you are most intersted in working, without a very concrete project.
 
 1. **AI/ML and HPC Integration with MC Simulations**
     - *AI/ML Models for Hadronization*. Unlike the reactions involving high-energy quarks and gluons, the process of hadron formation from these fundamental particles is not understood from first principles. Therefore, existing hadronization models are physics-inspired, but ultimately limited to simple parameterized fits to data. The flexibility of ML-based models offer an attractive alternative to existing parametric models. The goal is to continue the development and training of an ML-based hadronization model and interface it with the Pythia or Herwig MC event generators using inference libraries like ONNX.
