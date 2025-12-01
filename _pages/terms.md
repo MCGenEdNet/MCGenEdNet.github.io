@@ -27,7 +27,7 @@ Fellows will receive a stipend that will cover the relocation costs and the loca
 
 ## Selection
 
-Apply [**here**](https://academicjobsonline.org/ajo/Cincinnati/HEP/FELLOW1)). Applicants are requested to submit a brief (1 page) description of their proposed research project/research interests, including the preferred host institution, their CV (including software experience), and two letters of recommendation, out of which one should be from the advisor. We will conduct video interviews with short-listed candidates. The selected candidates will be placed equally between the two institutions, based on their preferences, and will each be assigned a primary mentor.
+Apply [**here**](https://academicjobsonline.org/ajo/Cincinnati/HEP/FELLOW1). Applicants are requested to submit a brief (1 page) description of their proposed research project/research interests, including the preferred host institution, their CV (including software experience), and two letters of recommendation, out of which one should be from the advisor. We will conduct video interviews with short-listed candidates. The selected candidates will be placed equally between the two institutions, based on their preferences, and will each be assigned a primary mentor.
 
 ## Potential Projects
 
