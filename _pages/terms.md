@@ -13,9 +13,9 @@ An integral part of a learning process is applying the acquired skills to concre
 
 ## Call for Fellows
 
-The current call is open: apply [**here**](https://academicprogramsonline.org/ajo/fellowship/28864). The deadline is **Nov 30th 2024.**
+The current call is **closed**: apply [**here**](https://academicjobsonline.org/ajo/Cincinnati/HEP/FELLOW1). The deadline is **Nov 15th 2025.**
 
-The pilot phase of MCgen consists of eight 6-month long traineeships to be selected from a national pool of graduate students and junior postdocs at institutions in the US. We will have two calls for the positions: four positions will be offered each for 2025-26 (current call) and then for 2026-27 academic year, equally split among the two host campuses. 
+The pilot phase of MCgen consisted of eight 6-month long traineeships to be selected from a national pool of graduate students and junior postdocs at institutions in the US. We had two calls for the positions: four positions will be offered each for 2025-26 and for 2026-27 academic year (current call), equally split among the two host campuses. 
 
 ## Eligibility
 
@@ -27,7 +27,7 @@ Fellows will receive a stipend that will cover the relocation costs and the loca
 
 ## Selection
 
-Apply [**here**](https://academicprogramsonline.org/ajo/fellowship/28864). Applicants are requested to submit a brief (1 page) description of their proposed research project/research interests, including the preferred host institution, their CV (including software experience), and two letters of recommendation, out of which one should be from the advisor. We will conduct video interviews with short-listed candidates. The selected candidates will be placed equally between the two institutions, based on their preferences, and will each be assigned a primary mentor.
+Apply [**here**](https://academicjobsonline.org/ajo/Cincinnati/HEP/FELLOW1)). Applicants are requested to submit a brief (1 page) description of their proposed research project/research interests, including the preferred host institution, their CV (including software experience), and two letters of recommendation, out of which one should be from the advisor. We will conduct video interviews with short-listed candidates. The selected candidates will be placed equally between the two institutions, based on their preferences, and will each be assigned a primary mentor.
 
 ## Potential Projects
 
