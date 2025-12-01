@@ -7,7 +7,7 @@ redirect_from:
   - /markdown.html
 ---
 
-## Berkeley
+## Stanford
 
 Dr. Benjamin Nachman, bpnachman at lbl.gov
 
