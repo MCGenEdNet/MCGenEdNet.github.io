@@ -7,7 +7,7 @@ redirect_from:
   - /cv.html
 ---
 
-## Summer School 2025
+## [Summer School 2025](https://indico.cern.ch/event/1497407/)
 
 **2025 CTEQ School**\
 PITT PACC, U Pittsburgh. 15-25 June 2025.\
