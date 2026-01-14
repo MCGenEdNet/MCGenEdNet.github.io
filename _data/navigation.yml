@@ -9,7 +9,7 @@ main:
     url: /about/
 
   - title: "Schools"
-    url: /cv/    
+    url: /schools/    
 
   - title: "Fellows"
     url: /terms/    
