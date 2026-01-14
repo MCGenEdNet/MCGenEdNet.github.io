@@ -1,10 +1,10 @@
 ---
-permalink: /cv/
+permalink: /schools/
 title: "Schools"
 author_profile: true
 redirect_from: 
-  - /resume/
-  - /cv.html
+  - /training/
+  - /schools.html
 ---
 
 ## Summer School 2025
