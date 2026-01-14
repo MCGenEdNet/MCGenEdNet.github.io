@@ -11,8 +11,10 @@ The primary repository for the MCgen tutorials is [gitlab.cern.ch/mcgen-ct/tutor
 
 ![hadronization vertices](/images/hadronization_vertices.jpg)
 ![integration_MC](/images/integration_MC.jpg)
-![integration_MC](/images/parton_shower.jpg)
-![integration_MC](/images/Lund_frag_func.jpg)
+![parton shower](/images/parton_shower.jpg)
+![Lund string fragmentation functions](/images/Lund_frag_func.jpg)
+![parton shower splitting](/images/parton_shower_2.jpg)
+![hadronization vertices](/images/hadronization_vertices_2.jpg)
 
 ## Monte Carlo
 
