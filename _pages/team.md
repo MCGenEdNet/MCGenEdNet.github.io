@@ -7,14 +7,14 @@ redirect_from:
   - /markdown.html
 ---
 
+# Coordinators:
 ## Stanford
-
 Dr. Benjamin Nachman, bpnachman at lbl.gov
-
 ## Cincinnati
-
 Prof. Philip Ilten, iltenpj at ucmail.uc.edu\
 Dr. Stephen Mrenna, mrenna at fnal.gov\
 Prof. Jure Zupan, zupanje at ucmail.uc.edu
 
+# Team members:
 
+# Advisory board:
