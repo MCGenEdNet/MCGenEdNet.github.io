@@ -17,4 +17,4 @@ Departure Wednesday 25 June.
 [**ADJACENT CYBER TRAINING MEETING:**](https://indico.cern.ch/event/1497407/)\
 lectures 25-26 June (Wed, Thur); depart  27 Friday
 
-[**2025 Tutorials:**](https://gitlab.com/mcgen-ct/tutorials/-/tree/2025-cteq)
+[**Link to 2025 Tutorials on GitLab**](https://gitlab.com/mcgen-ct/tutorials/-/tree/2025-cteq)
