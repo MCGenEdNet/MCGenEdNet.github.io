@@ -9,7 +9,7 @@ redirect_from:
 
 The primary repository for the MCgen tutorials is [gitlab.cern.ch/mcgen-ct/tutorials](https://gitlab.com/mcgen-ct/tutorials), which is mirrored at [github.com/mcgen-ct/tutorials](https://github.com/mcgen-ct/tutorials) so they can be directly accessed via Google's Colab. These respositories also provide further information, including lecture slides and .pdf versions of the notebooks. 
 
-![hadronization vertices](/images/hadronization_vertices_sm.jpg)
+![hadronization vertices](/images/hadronization_vertices_sm.jpeg)
 
 ## Monte Carlo
 
