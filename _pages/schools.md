@@ -3,6 +3,7 @@ permalink: /schools/
 title: "Schools"
 author_profile: true
 redirect_from: 
+  - /sch/
   - /schools.html
 ---
 
