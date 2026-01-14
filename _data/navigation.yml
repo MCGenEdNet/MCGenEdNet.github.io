@@ -11,8 +11,8 @@ main:
   - title: "Schools"
     url: /schools/  
 
- - title: "Tutorials"
-    url: /tutorials/  
+  - title: "Tutorials"
+    url: /tutorials/
 
   - title: "Fellows"
     url: /terms/    
