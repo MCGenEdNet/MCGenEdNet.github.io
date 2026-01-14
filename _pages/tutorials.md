@@ -9,7 +9,7 @@ redirect_from:
 
 # Tutorials
 
-These are the tutorials for the Monte Carlo general education network (MCgen). The primary repository for these tutorials is [gitlab.cern.ch/mcgen-ct/tutorials](https://gitlab.com/mcgen-ct/tutorials), which is mirrored at [github.com/mcgen-ct/tutorials](https://github.com/mcgen-ct/tutorials) so they can be directly accessed via Google's Colab. This project is supported by NSF grant OAC-2417682.
+The primary repository for the MCgen tutorials is [gitlab.cern.ch/mcgen-ct/tutorials](https://gitlab.com/mcgen-ct/tutorials), which is mirrored at [github.com/mcgen-ct/tutorials](https://github.com/mcgen-ct/tutorials) so they can be directly accessed via Google's Colab. These respositories also provide further information, including lecture slides and .pdf versions of the notebooks. 
 
 ## Monte Carlo
 
