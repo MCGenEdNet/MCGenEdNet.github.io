@@ -9,7 +9,10 @@ main:
     url: /about/
 
   - title: "Schools"
-    url: /schools/    
+    url: /schools/  
+
+ - title: "Tutorials"
+    url: /tutorials/  
 
   - title: "Fellows"
     url: /terms/    
