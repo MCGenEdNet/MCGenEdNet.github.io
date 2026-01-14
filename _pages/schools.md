@@ -18,3 +18,5 @@ Departure Wednesday 25 June.
 lectures 25-26 June (Wed, Thur); depart  27 Friday
 
 [**Link to 2025 Tutorials on GitLab**](https://gitlab.com/mcgen-ct/tutorials/-/tree/2025-cteq)
+
+![Participants of 2025 CTEQ-MCGEN school](/images/20250619_143821_2.jpg)
