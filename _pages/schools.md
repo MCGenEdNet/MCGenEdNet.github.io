@@ -1,9 +1,9 @@
 ---
-permalink: /schools/
+permalink: /schools.md
 title: "Schools"
 author_profile: true
 redirect_from: 
-  - /training/
+  - /schools/
   - /schools.html
 ---
 
