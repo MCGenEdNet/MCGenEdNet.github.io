@@ -9,6 +9,8 @@ redirect_from:
 
 The primary repository for the MCgen tutorials is [gitlab.cern.ch/mcgen-ct/tutorials](https://gitlab.com/mcgen-ct/tutorials), which is mirrored at [github.com/mcgen-ct/tutorials](https://github.com/mcgen-ct/tutorials) so they can be directly accessed via Google's Colab. These respositories also provide further information, including lecture slides and .pdf versions of the notebooks. 
 
+![Editing a Markdown file for a talk](/images/mstile-144x144.png)
+
 ## Monte Carlo
 
 * [Pythia](https://colab.research.google.com/github/mcgen-ct/tutorials/blob/main/pythia/worksheet.ipynb)
