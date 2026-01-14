@@ -27,7 +27,7 @@ Ben Nachman\
 Manuel Szewc\
 Michael Wilkinson\
 Ahmed Youssef\
-Jure Zupan\
+Jure Zupan
 
 ## Advisory board
 J. Butterworth\
