@@ -11,7 +11,7 @@ The primary repository for the MCgen tutorials is [gitlab.cern.ch/mcgen-ct/tutor
 
 ![hadronization vertices](/images/hadronization_vertices.jpg)
 ![integration_MC](/images/integration_MC.jpg)
-![integration_MC](/images/Lund_frag_func.jpg)
+![integration_MC](/images/parton_shower.jpg)
 
 ## Monte Carlo
 
