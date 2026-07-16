@@ -38,3 +38,7 @@ The primary repository for the MCgen tutorials is [gitlab.cern.ch/mcgen-ct/tutor
 * [normalizing flows](https://colab.research.google.com/github/mcgen-ct/tutorials/blob/main/ml/flows.ipynb)
 * [boosted decision trees](https://colab.research.google.com/github/mcgen-ct/tutorials/blob/main/ml/trees.ipynb)
 * [top tagging](https://colab.research.google.com/github/mcgen-ct/tutorials/blob/main/ml/top_tagging.ipynb)
+* [flavor tagging](https://colab.research.google.com/github/mcgen-ct/tutorials/blob/main/ml/flavor_tagging.ipynb)
+
+## Other
+* [numerical precision](https://colab.research.google.com/github/mcgen-ct/tutorials/blob/main/other/numerics.ipynb)
