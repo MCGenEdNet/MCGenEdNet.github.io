@@ -25,7 +25,7 @@ The primary repository for the MCgen tutorials is [gitlab.cern.ch/mcgen-ct/tutor
 * [hard process](https://colab.research.google.com/github/mcgen-ct/tutorials/blob/main/mc/hard_process.ipynb)
 * [parton showers](https://colab.research.google.com/github/mcgen-ct/tutorials/blob/main/mc/parton_shower.ipynb)
 * [hadronization](https://colab.research.google.com/github/mcgen-ct/tutorials/blob/main/mc/hadronization.ipynb)
-* [visualization](https://colab.research.google.com/github/mcgen-ct/tutorials/blob/main/vistas/vistas.ipynb)
+* [visualization](https://colab.research.google.com/github/mcgen-ct/tutorials/blob/main/pythia/vistas.ipynb)
 
 ## Machine Learning
 
