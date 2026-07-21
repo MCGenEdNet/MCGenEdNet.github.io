@@ -18,6 +18,7 @@ The primary repository for the MCgen tutorials is [gitlab.cern.ch/mcgen-ct/tutor
 
 ## Monte Carlo
 
+* [visualization](https://colab.research.google.com/github/mcgen-ct/tutorials/blob/main/pythia/vistas.ipynb)[ (solutions)](https://colab.research.google.com/github/mcgen-ct/tutorials/blob/main/.solutions/pythia/vistas.ipynb)
 * [Pythia](https://colab.research.google.com/github/mcgen-ct/tutorials/blob/main/pythia/worksheet.ipynb)
 * [tuning](https://colab.research.google.com/github/mcgen-ct/tutorials/blob/main/pythia/tuning.ipynb)
 * [random number generation](https://colab.research.google.com/github/mcgen-ct/tutorials/blob/main/mc/rng.ipynb)
@@ -25,7 +26,7 @@ The primary repository for the MCgen tutorials is [gitlab.cern.ch/mcgen-ct/tutor
 * [hard process](https://colab.research.google.com/github/mcgen-ct/tutorials/blob/main/mc/hard_process.ipynb)
 * [parton showers](https://colab.research.google.com/github/mcgen-ct/tutorials/blob/main/mc/parton_shower.ipynb)
 * [hadronization](https://colab.research.google.com/github/mcgen-ct/tutorials/blob/main/mc/hadronization.ipynb)
-* [visualization](https://colab.research.google.com/github/mcgen-ct/tutorials/blob/main/pythia/vistas.ipynb)
+
 
 ## Machine Learning
 
